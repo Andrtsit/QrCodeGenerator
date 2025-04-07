@@ -74,8 +74,13 @@ body {
   padding: 2rem;
 }
 
-@media (max-width: 320px) {
+@media (min-width: 300px) {
   html {
     font-size: 45%;
+  }
+}
+@media (min-width: 500px) {
+  html {
+    font-size: 62.5%;
   }
 }
