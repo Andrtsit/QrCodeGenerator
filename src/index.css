@@ -81,6 +81,11 @@ body {
 }
 @media (min-width: 500px) {
   html {
+    font-size: 53%;
+  }
+}
+@media (min-width: 700px) {
+  html {
     font-size: 62.5%;
   }
 }
