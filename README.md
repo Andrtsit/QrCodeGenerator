@@ -5,8 +5,6 @@ A simple, user-friendly web application that generates QR codes from text or URL
 ## Features
 
 - Generate QR codes instantly from any text input
-- Customize QR code size and color
-- Download generated QR codes as PNG images
 - Mobile-responsive design for use on any device
 
 ## Demo
@@ -16,9 +14,8 @@ A simple, user-friendly web application that generates QR codes from text or URL
 ## Usage
 
 1. Enter your text or URL in the input field
-2. Adjust size and color options if desired
-3. Click "Generate QR Code"
-4. Download your QR code by clicking the download button
+2. Click "Generate QR Code"
+
 
 ## Technologies Used
 
