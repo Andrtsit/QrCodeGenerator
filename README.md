@@ -5,8 +5,6 @@ A modern, user-friendly React application that generates QR codes from text or U
 ## Features
 
 - Generate QR codes instantly from any text or URL input
-- Customizable QR code options
-- Download generated QR codes
 - Mobile-responsive design for use on any device
 
 ## Demo
@@ -17,7 +15,7 @@ A modern, user-friendly React application that generates QR codes from text or U
 
 - React 19
 - Vite 6
-- qrcode.react
+- [qrcode.react](https://www.npmjs.com/package/qrcode.react)
 - ESLint
 - GitHub Pages for deployment
 
@@ -60,8 +58,7 @@ npm run deploy
 
 1. Enter text or a URL in the input field
 2. The QR code will generate automatically
-3. Adjust any available options as needed
-4. Download the QR code using the download button
+
 
 ## Project Structure
 
@@ -82,7 +79,7 @@ QrCodeGenerator/
 ## Future Enhancements
 
 - Add color customization options
-- Support for saving QR code history
+- Support for saving QR code history + Download Option 
 - Additional QR code format options
 
 ## License
