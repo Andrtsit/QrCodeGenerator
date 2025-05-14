@@ -29,17 +29,18 @@ Clone the repo
 ```
 git clone https://github.com/Andrtsit/QrCodeGenerator.git
 cd QrCodeGenerator
+```
 
 Install dependencies
-
-npm install
-
-Start the dev server
-
-npm run dev
-
-Open in browser: http://localhost:3000 🌐
 ```
+npm install
+```
+Start the dev server
+```
+npm run dev
+```
+Open in browser: http://localhost:3000 🌐
+
 ## 🚀 Usage
 
 1. Type your text or URL into the input field ✍️
